@@ -20,8 +20,8 @@ pip install requests
 ```
 pkg update && pkg upgrade
 pkg install git -y
-git clone https://github.com/Cpmhaoproject/Sanbetawormgpt-malaysia2026.git
-cd Sanbetawormgpt-malaysia2026
+git clone https://github.com/Cpmhaoproject/GPTHACKER2026.git
+cd GPTHACKER2026
 python3 wormgpt_enc.py
 ```
 
