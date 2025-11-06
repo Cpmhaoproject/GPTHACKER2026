@@ -36,6 +36,6 @@ python3 wormgpt_enc.py
 </p>
 
 # SUPPORT ALL
-KALI LINUX & TERMUX NOROOT
+KALI LINUX & TERMUX
 
 # THANKS YOU FOR ALL COUNTRY 💓 
